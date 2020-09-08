@@ -1,2 +1,3 @@
 rootProject.name='TryDagger2'
 include ':app'
+include ':java'
