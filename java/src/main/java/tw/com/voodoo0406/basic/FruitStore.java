@@ -1,4 +1,4 @@
-package tw.com.voodoo0406.java;
+package tw.com.voodoo0406.basic;
 
 import javax.inject.Inject;
 import javax.inject.Named;

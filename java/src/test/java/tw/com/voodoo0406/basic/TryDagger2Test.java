@@ -1,4 +1,4 @@
-package tw.com.voodoo0406.java;
+package tw.com.voodoo0406.basic;
 
 import org.junit.Assert;
 import org.junit.Test;

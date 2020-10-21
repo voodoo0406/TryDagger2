@@ -1,4 +1,4 @@
-package tw.com.voodoo0406.java;
+package tw.com.voodoo0406.basic;
 
 public abstract class Fruit {
   public abstract String getName();
